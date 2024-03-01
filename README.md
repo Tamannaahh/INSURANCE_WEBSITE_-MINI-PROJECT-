@@ -1,5 +1,5 @@
 # Insurance Website 
-By using <hTML>, CSS
+By using HTML, CSS
 
 Welcome to the Insurance Website repository! This website is designed to provide information about insurance services and help users navigate through various plans and policies.
 
