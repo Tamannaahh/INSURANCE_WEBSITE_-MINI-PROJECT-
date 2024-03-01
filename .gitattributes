@@ -1,2 +1,23 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Insurance Website
+
+Welcome to the Insurance Website repository! This website is designed to provide information about insurance services and help users navigate through various plans and policies.
+
+## Table of Contents
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+
+## Features
+
+- **User-Friendly Interface:** Intuitive design to enhance user experience.
+- **Policy Information:** Detailed information about different insurance policies.
+- **Quote Generation:** Users can generate insurance quotes online.
+- **Contact Us:** Easy ways for users to get in touch with our support team.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Tamannahh/insurance-website.git
